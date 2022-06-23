@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 id="title">Blog de estudos</h1>
+    </header>
+    <section>
+        <header>
+            <h2 class="subtitle">Primeiro Dia</h2>
+        </header>
+        <article class="post">
+            <header>
+                <h3 class="post_title">HTML</h3>
+            </header>
+            <p>lalaalalalalalala</p>
+        </article>
+    </section>
+    <footer>
+        <ul>
+            <li>
+                <a href="mailto:seuemail@hotmail.com" target="_blank">Contato via Email</a>
+            </li>
+        </ul>
+    </footer>
+</body>
+</html>
